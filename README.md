@@ -1,2 +1,2 @@
 # Metal-Price-Prediction
-Prediction of Neodymium prices using neural networks
+Prediction of prices of the rare earth element Neodymium using Bidirectional Long-Short Term
